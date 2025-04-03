@@ -1,6 +1,7 @@
 # Ambiente virtuale (per venv)
 venv/
 env/
+sentiment_analysis_env/
 
 # File temporanei di Jupyter Notebook
 .ipynb_checkpoints/
