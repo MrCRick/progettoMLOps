@@ -1,0 +1,32 @@
+# Ambiente virtuale (per venv)
+venv/
+env/
+
+# File temporanei di Jupyter Notebook
+.ipynb_checkpoints/
+
+# File generati da IDE
+.idea/
+.vscode/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# File di log
+*.log
+
+# Cartelle temporanee
+temp/
+tmp/
+
+# File di configurazione con credenziali
+.env
+*.env
+config.json
+*.json
+config.yaml
+*.yaml
+
+# Modelli di machine learning addestrati
+model/
